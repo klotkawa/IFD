@@ -43,3 +43,4 @@ Beispiele:
     <video width="320" height="240" controls>
       <source src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Verlinken.mp4" type=video/mp4>
     </video>
+    <video src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Verlinken.mp4" type=video/mp4>
