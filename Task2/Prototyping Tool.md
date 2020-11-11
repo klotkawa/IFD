@@ -34,9 +34,9 @@ für welchen Reifegrad der (a) Interaktivität, (b) Visualisierung und (c) Inhal
 
 Beispiele:
 <br>
-<img src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Fixieren.jpeg">
+<img src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Fixieren.gif">
 <br>
-<img src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Links bearbeiten.jpeg">
+<img src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Links bearbeiten.jpg">
 <br>
 <video controls>
   <source src="Verlinken.mp4" type="video/mp4"> 
