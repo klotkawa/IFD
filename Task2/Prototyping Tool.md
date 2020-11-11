@@ -40,7 +40,7 @@ Beispiele:
 <br>
 <img src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Links bearbeiten.jpg">
 <br>
-<video controls>
-  <source src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Verlinken.mp4" type="video/mp4" />
+<video width="320" height="240" controls>
+  <source src="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Verlinken.mp4" type="video/mp4">
 </video>
 
