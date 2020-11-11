@@ -1,6 +1,6 @@
 # IFD-WiSe20-21
 ## Aufgabe 0 - Hygieneregeln:
-<a href="klotkawa.github.io/IFD-WiSe20-21/blob/main/Task0/SWOT.pdf"> link </a>
+<a href="https://klotkawa.github.io/IFD-WiSe20-21/Task0/SWOT.pdf"> link </a>
 ## Aufgabe 1 - The Wallet Project
 [A try run through the full DT circle](https://github.com/klotkawa/IFD-WiSe20-21/blob/main/Task1/The%20Wallet%20Project.pptx)
 ## Aufgabe 2 - Prototyping
