@@ -4,6 +4,6 @@
 ## Aufgabe 1 - The Wallet Project
 <a href="https://klotkawa.github.io/IFD-WiSe20-21/Task1/The Wallet Project.pdf"> A try run through the full DT circle </a>
 ## Aufgabe 2 - Prototyping
-[Prototyping Tool]()
+<a href="https://klotkawa.github.io/IFD-WiSe20-21/Task1/Prototyping Tool.txt"> Prototyping Tool </a>
+<a href="https://klotkawa.github.io/IFD-WiSe20-21/Task1/Konzeptentwurf.pdf"> Konzeptentwurf </a>
 
-[Konzeptentwurf](https://github.com/klotkawa/IFD-WiSe20-21/blob/main/Task2/Konzeptentwurf.pdf)
