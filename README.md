@@ -6,7 +6,10 @@
 ## Aufgabe 2 - Prototyping
 <a href="https://github.com/klotkawa/IFD-WiSe20-21/blob/main/Task2/Prototyping%20Tool.md"> Prototyping Tool </a> <br>
 <a href="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Konzeptentwurf.pdf"> Konzeptentwurf </a>
-## Aufgabe 3 - High-Fid Prototype
+## Aufgabe 3 - Wahrnehmung und Aufmerksamkeit
 <a href="https://g244vl.axshare.com/#id=ij4wqk&p=start_1"> High-Fid Prototype </a>
-
+## Aufgabe 4 - Design Grundsätze und Heuristiken
+<a href="https://g244vl.axshare.com/#id=ij4wqk&p=start_1"> Voice User Interface Konzept </a>
+## Aufgabe 5 - UI Design Guidelines, Pattern Libraries
+<a href="https://g244vl.axshare.com/#id=ij4wqk&p=start_1"> Voice User Interfaces II </a>
 
