@@ -6,4 +6,7 @@
 ## Aufgabe 2 - Prototyping
 <a href="https://github.com/klotkawa/IFD-WiSe20-21/blob/main/Task2/Prototyping%20Tool.md"> Prototyping Tool </a> <br>
 <a href="https://klotkawa.github.io/IFD-WiSe20-21/Task2/Konzeptentwurf.pdf"> Konzeptentwurf </a>
+## Aufgabe 3 - High-Fid Prototype
+<a href="https://g244vl.axshare.com/#id=ij4wqk&p=start_1"> High-Fid Prototype </a>
+
 
