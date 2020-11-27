@@ -11,5 +11,5 @@
 ## Aufgabe 4 - Design Grundsätze und Heuristiken
 <a href="https://klotkawa.github.io/IFD-WiSe20-21/Task4/VUI Ramo.pdf"> Voice User Interface Konzept </a>
 ## Aufgabe 5 - UI Design Guidelines, Pattern Libraries
-<a href="https://g244vl.axshare.com/#id=ij4wqk&p=start_1"> Voice User Interfaces II </a>
+<a href=""> Voice User Interfaces II </a>
 
